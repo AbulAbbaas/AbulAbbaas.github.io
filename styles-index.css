@@ -1,0 +1,93 @@
+body {
+	background-color: rgba(102, 153, 153, 0.4);
+	margin: 0px;
+}
+.navbar-dark {
+	background-color: skyblue;
+	border-color: blue;
+}
+.navbar-toggler {
+	background-color: rgba(0, 0, 0, 0.1);
+	border-radius: 10px;
+	border-collapse: 
+}
+.navbar-toggler:hover {
+	border-color: white;
+}
+.btn-default:hover {
+	background-color: white;
+	border-color: blue;
+}
+.dropdown-menu {
+	background-color: white;
+}
+.item:hover {
+	background-color: blue;
+}
+.collapse {
+	display: inline-block;
+}
+
+h3 {
+	text-align: center;
+	color: blue;
+	margin-top: 120px;
+	margin-left: 0px;
+	border-bottom: solid white;
+	border-right: solid white;
+	max-width: 20em;
+	box-shadow: 5px 5px rgba(0, 0, 255, 0.2);
+}
+
+.new {
+	font-weight: normal;
+	margin-left: 20px;
+	text-align: justify;
+}
+h4 {
+	text-align: left;
+	color: grey;
+	border-bottom: solid blue;
+	border-right: solid blue;
+	max-width: 5px
+	border-top: grey;
+	font-size: 130%;
+	padding-right: 1px;
+}
+blockquote {
+	border: solid purple;
+	border-radius: 10px;
+	border-width: 1px;
+	background-color: white;
+	padding: 10px;
+}
+.h4 {
+	border-left: solid blue;
+	font-size: 130%;
+	padding-right: 5px;
+	text-align: center;
+}
+.new2 {
+	text-align: justify;
+}
+.vr {
+	border-left: 3px solid rgb(62, 102, 122);
+  height: 750px;
+}
+.mr-3 {
+	width: 100px;
+}
+hr {
+	max-width: 900px;
+	border-color: blue;
+}
+.btn-primary {
+	background-color: grey;
+	border-color: grey;
+}
+.btn-primary:hover {
+	background-color: white;
+	color: blue;
+	border-color: white;
+
+}
